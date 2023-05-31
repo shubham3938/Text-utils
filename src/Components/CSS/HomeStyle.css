@@ -1,0 +1,21 @@
+.headerContainer{
+  margin: 0px;
+  padding: 0px;
+  /* background-color: aquamarine; */
+  width: 100%;
+  height: auto;
+}
+.headerTitle{
+    margin: 0px;
+    padding: 1px;
+    color: white;
+    background-color: cadetblue;
+}
+
+.container{
+  text-align: left;
+}
+
+.UppBtn{
+  margin: 20px;
+}
